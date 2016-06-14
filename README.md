@@ -88,8 +88,10 @@ createActionTypes({
 // results in:
 
 {
-  ADD: 'user::ADD',
-  REMOVE: 'user::REMOVE'
+  user: {
+    ADD: 'user::ADD',
+    REMOVE: 'user::REMOVE'
+  }
 }
 ```
 
