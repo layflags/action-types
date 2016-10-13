@@ -2,6 +2,7 @@
 
 [![es6](https://camo.githubusercontent.com/d25414161ebfbbdd0f69a4a3e6a188a76ae2e82a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65732d362d627269676874677265656e2e737667)](https://babeljs.io/docs/usage/polyfill/)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![CircleCI](https://circleci.com/gh/layflags/action-types.svg?style=svg)](https://circleci.com/gh/layflags/action-types)
 
 Conveniently create action types with multi-level namespace support.
 
